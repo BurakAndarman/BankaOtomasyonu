@@ -3,7 +3,7 @@ Java Swing ile yapılmış, banka müşterisi, çalışanı ve yöneticisi için
 
 # Bilinmesi Gerekenler 👇
 
-►Programın çalışabilmesi için "BankaPersoneli.txt","BankaYöneticisi.txt","MüşteriHesapBilgileri.txt","Müşteriler.txt" şeklinde dört adet metin dosyasına ihtiyaç duyulmaktadır.Bu dosyalar yapılan işlemlerden sonra güncellenmektedir (Dosyalar proje ile aynı dizinde yer almalıdır).
+► Programın çalışabilmesi için "BankaPersoneli.txt", "BankaYöneticisi.txt", "MüşteriHesapBilgileri.txt", "Müşteriler.txt" şeklinde dört adet metin dosyasına ihtiyaç duyulmaktadır.Bu dosyalar yapılan işlemlerden sonra güncellenmektedir (Dosyalar proje ile aynı dizinde yer almalıdır).
 
 # Ekran Görüntüleri 📷
 
